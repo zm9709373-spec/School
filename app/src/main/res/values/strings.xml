@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Neo Suffah School</string>
+    <string name="school_name">The Neo Suffah Model School</string>
+    <string name="school_tagline">Garhi Kapoora, Mardan</string>
+    <string name="school_motto">Knowledge is Power • علم بڑی دولت ہے</string>
+    <string name="school_address">Garhi Daulat Zai, Tango Adda Garhi Kapoora Mardan</string>
+    <string name="school_contact">+92 3155261941</string>
+    <string name="school_contact_phone">+923155261941</string>
+</resources>

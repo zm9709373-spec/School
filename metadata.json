@@ -1,0 +1,6 @@
+{
+  "name": "Neo Suffah School",
+  "description": "Comprehensive school management and teacher-parent complaint portal for The Neo Suffah Model School, Garhi Kapoora Mardan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
